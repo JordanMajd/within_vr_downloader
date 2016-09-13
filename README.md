@@ -2,7 +2,7 @@
 
 To rip videos from Within Web Player format URLs as such:
 
-
+<script src="app.js"/>
 ```
 http://player.with.in/6-EVOL/video/<filename>-WEBPLAYER_PROGRESSIVE-<stereo/mono>-<resolution>.<filetype>
 ```
