@@ -1,0 +1,22 @@
+{
+  "name": "withinplayer",
+  "version": "1.0.0",
+  "description": "## About",
+  "main": "index.js",
+  "scripts": {
+    "start": "hs -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanMajd/within_vr_downloader.git"
+  },
+  "author": "Jordan Majd <jordan@madtitanstudios.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JordanMajd/within_vr_downloader/issues"
+  },
+  "homepage": "https://github.com/JordanMajd/within_vr_downloader#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}

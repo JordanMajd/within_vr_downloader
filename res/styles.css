@@ -1,0 +1,23 @@
+html {
+  background-color: #212121;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #fff;
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+.uk-overlay-background {
+  background: rgba(0, 0, 0, 0.75);
+}
+
+.uk-form-stacked .uk-form-label, .dark{
+  color: #424242;
+}
+
+.red {
+  color: red;
+  font-weight: bold;
+}
