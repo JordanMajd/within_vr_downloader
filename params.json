@@ -1,0 +1,6 @@
+{
+  "name": "Within VR Downloader",
+  "tagline": "A tool to download HD VR videos from Within VR.",
+  "body": "# Within Player\r\n\r\nTo rip videos from Within Web Player format URLs as such:\r\n\r\n\r\n```\r\nhttp://player.with.in/6-EVOL/video/<filename>-WEBPLAYER_PROGRESSIVE-<stereo/mono>-<resolution>.<filetype>\r\n```\r\n\r\nSupported resolutions:\r\n\r\n- 640x320\r\n- 1280x640\r\n- 1920x960\r\n- 2880x1440\r\n- 4096x2048L\r\n- 4096x2048H\r\n\r\nSupported video types:\r\n\r\n- stereo\r\n- mono\r\n\r\n\r\nSupported file types:\r\n\r\n- mp4\r\n- webm\r\n\r\n\r\nGet filenames from `unified.json`, `content[n].cameras.default.webplayer.name`\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
