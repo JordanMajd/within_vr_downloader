@@ -1,8 +1,7 @@
 {
-  "name": "withinplayer",
+  "name": "within_vr_downloader",
   "version": "1.0.0",
-  "description": "## About",
-  "main": "index.js",
+  "description": "Within VR Downloader is a tool to download HD Stereoscopic 360 VR videos from Within VR.",
   "scripts": {
     "postinstall": "bower install",
     "start": "hs -c-1"
