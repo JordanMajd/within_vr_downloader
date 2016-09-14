@@ -10,7 +10,7 @@ Use Chrome for best download experience.
 
 ## Spec
 
-The tool supports downloading the following formats.
+The tool supports downloading the following formats:
 
 ### Supported 360 Video Resolutions
 
@@ -62,4 +62,4 @@ Filenames can be pulled from from `unified.json`, `content[n].cameras.default.we
 
 ## License
 
-See [/LICENSE]
+See [LICENSE](/LICENSE)
