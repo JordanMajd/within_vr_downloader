@@ -1,0 +1,22 @@
+{
+  "name": "withinplayer",
+  "description": "## About",
+  "main": "index.js",
+  "authors": [
+    "Jordan Majd <jordan@madtitanstudios.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/JordanMajd/within_vr_downloader",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "uikit": "^2.27.1"
+  }
+}
