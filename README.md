@@ -4,6 +4,10 @@
 
 Within VR Downloader is a tool to download HD Stereoscopic 360 VR videos from Within VR.
 
+Use Chrome for best download experience.
+
+[Click here to use Within VR Downloader.](http://jordanmajd.com/within_vr_downloader/)
+
 ## Spec
 
 The tool supports downloading the following formats.
@@ -50,7 +54,11 @@ To rip videos from Within Web Player format URLs as such:
 wget http://player.with.in/6-EVOL/video/<filename>-WEBPLAYER_PROGRESSIVE-<stereo/mono>-<resolution>.<filetype>
 ```
 
-Filenames can be pulled from from `unified.json`, `content[n].cameras.default.webplayer.name`
+Filenames can be pulled from from `unified.json`, `content[n].cameras.default.webplayer.name` 
+
+## Project RoadMap
+
+- Improve cross browser download support.
 
 ## License
 
