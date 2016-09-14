@@ -1,6 +1,6 @@
 # Within VR Downloader
 
-:danger: **This project is not affiliated or endorsed by Within in any way, nor does it host any of their content.** :danger:
+:warning: **This project is not affiliated or endorsed by Within in any way, nor does it host any of their content.** :warning:
 
 Within VR Downloader is a tool to download HD Stereoscopic 360 VR videos from Within VR.
 
@@ -8,7 +8,7 @@ Within VR Downloader is a tool to download HD Stereoscopic 360 VR videos from Wi
 
 The tool supports downloading the following formats.
 
-### Supported Video Resolutions
+### Supported 360 Video Resolutions
 
 - 320P: 640x320
 - 640P: 1280x640
@@ -19,7 +19,7 @@ The tool supports downloading the following formats.
 
 ### Supported Projection Types
 
-As of writing, most stereo files are over under.
+As of writing, most stereo files are `over under`.
 
 - stereo
 - mono
@@ -53,3 +53,5 @@ wget http://player.with.in/6-EVOL/video/<filename>-WEBPLAYER_PROGRESSIVE-<stereo
 Filenames can be pulled from from `unified.json`, `content[n].cameras.default.webplayer.name`
 
 ## License
+
+See [/LICENSE]
