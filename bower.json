@@ -1,6 +1,6 @@
 {
-  "name": "withinplayer",
-  "description": "## About",
+  "name": "within_vr_downloader",
+  "description": "Within VR Downloader is a tool to download HD Stereoscopic 360 VR videos from Within VR.",
   "main": "index.js",
   "authors": [
     "Jordan Majd <jordan@madtitanstudios.com>"
