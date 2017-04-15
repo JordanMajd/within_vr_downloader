@@ -92,7 +92,7 @@
 
     function getWithinMetadata() {
 
-      return $http.get("http://with.in/unified.json").then(function(data) {
+      return $http.get("./res/unified.json").then(function(data) {
 
         var content = data.data.content;
         var videoData = [];
