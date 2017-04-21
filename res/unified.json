@@ -2660,10 +2660,10 @@
       }
     },
     "391": {
-      "title": "",
-      "url": "",
-      "keywords": [],
-      "display_priority": 35,
+      "title": "The Possible: Hoverboard",
+      "url": "the-possible-hoverboard",
+      "keywords": ["Alexandru Duru", "Hoverboard", "Omni Hoverboards", "Flying", "Drone", "Inventor", "Invention", "The Possible", "David Gelb", "June Cohen", "Here Be Dragons", "Within", "Virtual Reality", "VR", "Chris Milk"],
+      "display_priority": 36,
       "cameras": {
         "default": {
           "audio_files": [
@@ -2701,29 +2701,32 @@
         }
       },
       "visible_on": {
-        "webplayer": false,
-        "mobile_web": false
+        "webplayer": true,
+        "mobile_web": true
       },
       "thumbnail": {
-        "url": ""
+        "url": "Possible_Ep5_1024x539_Main.jpg"
       },
       "id": 391,
-      "author": "",
-      "directors": [],
+      "author": "Creator: David Gelb",
+      "directors": ["David Gelb"],
       "release_date": 2017,
-      "duration": "",
+      "duration": "9:18",
       "root": "391-POSS_HVR_GE/",
-      "short_description": "",
-      "description": "",
+      "short_description": "Alexandru Duru wanted to fly, so he built himself a hoverboard. Fly with him. A double feature with GE’s “Fighting Fire With Fire.”",
+      "description": "If you could have just one superpower, what would it be? For Alexandru Duru, the answer was obvious: the ability to fly. That’s why he founded Omni Hoverboards, which has transformed hoverboard technology from dream to reality. In this episode of “The Possible,” you’ll follow his team as it builds and tests a prototype powered by multiple drones. Then, you’ll experience what it’s like to pilot a hoverboard yourself.<br /><br />Check out “Hoverboard” today. Then, stay tuned for GE’s “Fighting Fire With Fire.”",
       "detail": {
-        "url": ""
+        "url": "Possible_Ep5_1024x539_Detail.jpg"
       }
     },
     "541": {
       "title": "Under Neon Lights",
       "url": "under-neon-lights",
-      "keywords": [],
-      "display_priority": 36,
+      "keywords": ["the chemical brothers", "st. vincent", "jono brandel", "zach richter", "within", "vr", "virtual reality", "vr viewer", "webvr", "webvr experiments", "music video"],
+      "meta": {
+        "title": "Under Neon Lights: A Within Original VR Music Experience"
+      },
+      "display_priority": 35,
       "cameras": {
         "default": {
           "audio_files": [],
