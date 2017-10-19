@@ -54,7 +54,7 @@ To rip videos from Within Web Player format URLs as such:
 wget http://player.with.in/6-EVOL/video/<filename>-WEBPLAYER_PROGRESSIVE-<stereo/mono>-<resolution>.<filetype>
 ```
 
-Filenames can be pulled from from `http://with.in/unified.json`, `content[n].cameras.default.webplayer.name`. 
+Filenames can be pulled from from `https://with.in/unified.json`, `content[n].cameras.default.webplayer.name`. 
 
 ## Project RoadMap
 
