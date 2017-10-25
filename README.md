@@ -2,7 +2,7 @@
 
 :warning: **This project is not affiliated or endorsed by Within in any way, nor does it host any of their content.** :warning:
 
-Within VR Downloader is a web app to download HD Stereoscopic 360 VR videos from Within VR.
+Within VR Downloader is a web app to download HD Stereoscopic 360 VR videos from Within VR. It was created out of a need for high quality VR test footage while developing several VR apps. 
 
 :arrow_forward: [Click here to use Within VR Downloader.](http://jordanmajd.com/within_vr_downloader/)
 
