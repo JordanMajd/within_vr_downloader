@@ -1,4 +1,6 @@
-# Within VR Downloader
+# Within VR Downloader ![Version 1.2](https://img.shields.io/badge/Version-1.2-green.svg)
+
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 :warning: **This project is not affiliated or endorsed by Within in any way, nor does it host any of their content.** :warning:
 
