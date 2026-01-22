@@ -2,6 +2,8 @@
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
+:danger: **Within no longer exists so this project no longer exists.** :danger:
+
 :warning: **This project is not affiliated or endorsed by Within in any way, nor does it host any of their content.** :warning:
 
 Within VR Downloader is a web app to download HD Stereoscopic 360 VR videos from Within VR. It was created out of a need for high quality VR test footage while developing several VR apps. 
